@@ -1,0 +1,3 @@
+[submodule "resources/gamedata"]
+	path = resources/gamedata
+	url = https://github.com/Kengxxiao/ArknightsGameData.git
